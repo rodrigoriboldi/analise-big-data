@@ -3,5 +3,5 @@ Projeto de análise de grandes conjuntos de dados utilizando o Databricks em con
 
 Os arquivos disponibilizados são:
 - O notebook Python no formato ipynb contendo o código;
-- O notebook Python no formato html contendo os resultados da execução
+- O notebook Python no formato html contendo os resultados da execução e mostrando os gráficos construídos;
 - O dataset utilizado está disponível em: https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
