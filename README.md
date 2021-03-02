@@ -5,3 +5,5 @@ Os arquivos disponibilizados são:
 - O notebook Python no formato ipynb contendo o código;
 - O notebook Python no formato html contendo os resultados da execução e mostrando os gráficos construídos;
 - O dataset utilizado está disponível em: https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
+
+Obs: o DataBricks mostra o resultado de tabelas exibidas com a função "display" como gráficos de forma automática, para visualizar os gráficos por favor acesse o arquivo .html
